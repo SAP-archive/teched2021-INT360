@@ -5,7 +5,6 @@
 * [Description](#description)
 * [Overview](#overview)
 * [Requirements](#requirements)
-  * [SAP Cloud Platform trial account](#sap-cloud-platform-trial-account)
 * [Exercises](#exercises)
 * [How to obtain support](#how-to-obtain-support)
 * [License](#license)
@@ -27,11 +26,8 @@ context of a real use case.
 
 ## Requirements
 
-To follow the exercises in this repository, you will need:
-
-* a BTP Trial account in the **US East (VA) - AWS** region
-
-### SAP Cloud Platform trial account
+To follow the exercises in this repository, you will need a BTP Trial account in the
+**US East (VA) - AWS** region
 
 If you have no trial account,
 [you will need to create one first](docs/markdown/create_trial_account.md).
