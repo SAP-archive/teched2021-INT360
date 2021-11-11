@@ -66,4 +66,4 @@ The remaining workshop content is located inside the notebook.
 If you prefer to run the notebook locally, we have a separate set of instructions
 for a [Docker-based setup].
 
-[Docker-based setup]: /exercises/docs/markdown/running_docker_locally.md
+[Docker-based setup]: /exercises/ex1/docs/markdown/running_docker_locally.md

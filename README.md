@@ -41,7 +41,7 @@ If you already have a trial account,
 
 ## Exercises
 
-* [Exercise 1 - First Exercise Description](exercises/ex1/)
+* [Exercise 1 - Regression Support in Data Attribute Recommendation](exercises/ex1/)
 * [Exercise 2 - Second Exercise Description](exercises/ex2/)
 
 ## How to obtain support
