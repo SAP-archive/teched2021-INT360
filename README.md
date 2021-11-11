@@ -1,5 +1,19 @@
 # INT360 - Apply Machine Learning and Regression Models to Classify Data Records
 
+<!-- toc -->
+
+* [Description](#description)
+* [Overview](#overview)
+* [Requirements](#requirements)
+  * [SAP Cloud Platform trial account](#sap-cloud-platform-trial-account)
+* [Exercises](#exercises)
+* [How to obtain support](#how-to-obtain-support)
+* [License](#license)
+
+<!-- Regenerate with "pre-commit run -a markdown-toc" -->
+
+<!-- tocstop -->
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2021 session called INT360 - Apply Machine
@@ -28,7 +42,7 @@ If you already have a trial account,
 ## Exercises
 
 * [Exercise 1 - First Exercise Description](exercises/ex1/)
-*[Exercise 2 - Second Exercise Description](exercises/ex2/)
+* [Exercise 2 - Second Exercise Description](exercises/ex2/)
 
 ## How to obtain support
 
