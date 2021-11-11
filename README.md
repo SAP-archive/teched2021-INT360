@@ -25,13 +25,10 @@ If you have no trial account,
 If you already have a trial account,
 [please check if it is setup correctly](docs/markdown/check_existing_trial_account.md).
 
-
 ## Exercises
 
-
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-
+* [Exercise 1 - First Exercise Description](exercises/ex1/)
+*[Exercise 2 - Second Exercise Description](exercises/ex2/)
 
 ## How to obtain support
 
@@ -40,6 +37,7 @@ for which this content has been designed. Otherwise, you may request support via
 [Issues](../../issues) tab.
 
 ## License
+
 Copyright (c) 2021 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed
 under the Apache Software License, version 2.0 except as noted otherwise in the
 [LICENSE](LICENSES/Apache-2.0.txt) file.

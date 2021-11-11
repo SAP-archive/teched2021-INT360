@@ -1,4 +1,4 @@
-## Check your existing trial account
+# Check your existing trial account
 
 If you have already created a trial account in the past, we need to
 ensure that have a subaccount in the **Europe (Frankfurt) - AWS**
@@ -17,7 +17,7 @@ use that. Note that the **Singapore - Microsoft Azure** is currently **not** sup
 If you have a subaccount in the correct region, please proceed with the
 [exercises](/README.md#exercises).
 
-### Subaccount in region other than US East (VA) - AWS
+## Subaccount in region other than US East (VA) - AWS
 
 However, if your subaccount is not in a supported region has a different region, please create a
 new subaccount by clicking the "New Subaccount" button.

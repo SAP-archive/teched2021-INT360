@@ -10,7 +10,7 @@ To quickly bring up a Jupyter server inside Docker,
 [run the following command](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/running.html):
 
 ```bash
-$ docker run -p 8888:8888 jupyter/scipy-notebook:latest
+docker run -p 8888:8888 jupyter/scipy-notebook:latest
 ```
 
 ![docker run](../images/docker_run.png)
@@ -18,7 +18,6 @@ $ docker run -p 8888:8888 jupyter/scipy-notebook:latest
 This will print an URL which will point you to your running Jupyter environment.
 There, you can upload this notebook file and execute it. You can find instructions
 to upload the notebook in the [Exercises](#exercises) section.
-
 
 ## Exercises
 
@@ -44,7 +43,7 @@ In the file selection dialog, select the notebook file. Then click the second "U
 
 Double-check that the file name ends with `.ipynb`. If the file has a different
 extension, please change the file extension to `.ipynb`. First, select the row
-containing the file and then click the "Rename" button. 
+containing the file and then click the "Rename" button.
 
 ![Screenshot Upload 3](../images/upload-3.png)
 
