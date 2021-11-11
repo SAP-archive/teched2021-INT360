@@ -1,0 +1,5 @@
+.idea
+key.txt
+key*.txt
+key*.json
+.DS_Store
