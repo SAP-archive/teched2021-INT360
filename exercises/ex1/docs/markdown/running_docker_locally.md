@@ -26,10 +26,13 @@ will open automatically. You only need to follow the steps below if you have you
 own Jupyter instance, such as when running with Docker.*
 
 Start the exercises by downloading the
-[Jupyter notebook from Github](https://github.com/SAP-samples/teched2021-INT360/blob/master/exercises/ex1/Data_Attribute_Recommendation_Regression_Model_Template.ipynb).
+[Jupyter notebook from Github](https://github.com/SAP-samples/teched2021-INT360/blob/main/exercises/ex1/Data_Attribute_Recommendation_Regression_Model_Template.ipynb).
 
-Right-click [this direct link](https://github.com/SAP-samples/teched2021-INT360/raw/master/exercises/ex1/Data_Attribute_Recommendation_Regression_Model_Template.ipynb)
+Right-click [this direct link](https://github.com/SAP-samples/teched2021-INT360/raw/main/exercises/ex1/Data_Attribute_Recommendation_Regression_Model_Template.ipynb)
 and select "Save As". Save the file to disk.
+
+Note: the screenshots show an outdated file name. Be sure to use the latest
+`Data_Attribute_Recommendation_Regression_Model_Template.ipynb`.
 
 ![Screenshot Save As](../images/save_as.png)
 
