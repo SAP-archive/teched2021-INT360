@@ -1,9 +1,9 @@
 # Check your existing trial account
 
 If you have already created a trial account in the past, we need to
-ensure that have a subaccount in the **Europe (Frankfurt) - AWS**
+ensure that have a subaccount in the **US East (VA) - AWS**
 region.
-To confirm this, log in to your [Trial Account](https://cockpit.eu10.hana.ondemand.com/trial/)
+To confirm this, log in to your [Trial Account](https://cockpit.us10.hana.ondemand.com/trial/)
 and inspect the list of subaccounts.
 
 You should have at least one subaccount where the **region** field is listed as
@@ -11,8 +11,7 @@ You should have at least one subaccount where the **region** field is listed as
 
 ![SCP Subaccount US East (VA) - AWS](../images/scp_subaccount_us_east.png)
 
-If you have an older trial account with a subaccount in **Europe (Frankfurt) - AWS**, you may also
-use that. Note that the **Singapore - Microsoft Azure** is currently **not** supported.
+Note that the **Singapore - Microsoft Azure** is currently **not** supported.
 
 If you have a subaccount in the correct region, please proceed with the
 [exercises](/README.md#exercises).
