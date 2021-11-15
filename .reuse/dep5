@@ -27,3 +27,9 @@ Disclaimer: The code in this project may include calls to APIs (“API Calls”)
 Files: *
 Copyright: 2021 SAP SE or an SAP affiliate company and teched2021-[SESSION ID] contributors
 License: Apache-2.0
+
+Files: exercises/ex1/data/real_estate_valuation_data_set.csv
+Copyright: 2018 Prof. I-Cheng Yeh, Department of Civil Engineering, Tamkang University, Taiwan
+License: CC-BY-4.0
+Comment: See https://archive.ics.uci.edu/ml/datasets/real+estate+valuation+data+set and
+ https://archive-beta.ics.uci.edu/ml/datasets/real+estate+valuation+data+set
