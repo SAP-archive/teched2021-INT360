@@ -1,4 +1,5 @@
-# INT360 - Apply Machine Learning and Regression Models to Classify Data Records
+# INT360 - Intelligent Approvals with Workflow Intelligence
+
 
 <!-- toc -->
 
