@@ -6,7 +6,7 @@ To run Jupyter in Docker, make sure that you have
 Docker is a great way to quickly get an environment up and running.
 For this workshop, we recommend the `jupyter/scipy-notebook` image.
 
-To quickly bring up a Jupyter server inside Docker,
+To quickly bring up a JupyterLab server inside Docker,
 [run the following command](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/running.html):
 
 ```bash
@@ -23,7 +23,7 @@ to upload the notebook in the [Exercises](#exercises) section.
 
 *If you followed one of the links to mybinder.org or to Google Colab, the notebook
 will open automatically. You only need to follow the steps below if you have your
-own Jupyter instance, such as when running with Docker.*
+own JupyterLab instance, such as when running with Docker.*
 
 Start the exercises by downloading the
 [Jupyter notebook from Github](https://github.com/SAP-samples/teched2021-INT360/blob/main/exercises/ex1/Data_Attribute_Recommendation_Regression_Model_Template.ipynb).
