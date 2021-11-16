@@ -38,7 +38,7 @@ If you already have a trial account,
 ## Exercises
 
 * [Exercise 1 - Regression Support in Data Attribute Recommendation](exercises/ex1/)
-* [Exercise 2 - Infusing intelligence in Business Process using Workflow Intelligence based on Data Attribute Recommeendation](exercises/ex2/)
+* [Exercise 2 - Intelligent Approvals with Workflow Intelligence](exercises/ex2/)
 
 ## How to obtain support
 

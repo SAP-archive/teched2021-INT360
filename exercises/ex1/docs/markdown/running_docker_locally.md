@@ -10,7 +10,7 @@ To quickly bring up a Jupyter server inside Docker,
 [run the following command](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/running.html):
 
 ```bash
-docker run -p 8888:8888 jupyter/scipy-notebook:latest
+docker run -p 8888:8888 -e JUPYTER_ENABLE_LAB=yes jupyter/scipy-notebook:latest
 ```
 
 ![docker run](../images/docker_run.png)
