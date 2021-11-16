@@ -13,8 +13,8 @@
 
 ## Exercise 2
 
-In this exercise we will introduce you to Workflow Intelligence capability of Workflow Management using Data Attribute Recommender service. 
-Using Workflow Intelligence, Business Owners and citizen developer can configure a machine learning based scenarios. Workflow Intelligence scenario can generate recommendation for Approvers as confidence levels.
+In this exercise we will introduce you to the Workflow Intelligence capability of Workflow Management using Data Attribute Recommendation service. 
+Using Workflow Intelligence, Business Owners and citizen developer can configure a machine learning based scenarios. Workflow Intelligence scenario can generate recommendations for Approvers.
 
 *Make sure you have fulfilled the prerequisites listed in the main [README](/README.md).*
 
@@ -32,7 +32,7 @@ notebook directly in your browser via [mybinder.org].
 [mybinder.org]: https://mybinder.org/v2/gh/SAP-samples/teched2021-INT360/main?labpath=exercises%2Fex2%2FTechEdINT360-WorkflowIntelligence.ipynb
 It may take up to five minutes to launch the notebook. Sessions on this free service
 can be terminated after a [10 minutes of inactivity]. Make sure not to leave the
-browser window for long periods of time and download your notebook once you
+browser window for long period of time unattended and download your notebook once you
 are done with the workshop for safekeeping.
 
 [10 minutes of inactivity]: https://mybinder.readthedocs.io/en/latest/about/about.html#how-long-will-my-binder-session-last
