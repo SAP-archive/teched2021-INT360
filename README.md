@@ -38,7 +38,9 @@ If you already have a trial account,
 ## Exercises
 
 * [Exercise 1 - Regression Support in Data Attribute Recommendation](exercises/ex1/)
+  * [Slides](/Teched2021-INT360-DataAttributeRecommendation.pdf)
 * [Exercise 2 - Intelligent Approvals with Workflow Intelligence](exercises/ex2/)
+  * [Slides](/TechEd2021-INT360-WorkflowIntelligence.pdf)
 
 ## How to obtain support
 
