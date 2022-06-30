@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-INT360)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-INT360)
+
 # INT360 - Apply Machine Learning and Regression Models to Classify Data Records
 
 <!-- toc -->
